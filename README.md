@@ -12,3 +12,18 @@
 
 ## 优势
 - 解决蓝图内容无法清晰地进行版本控制的问题。
+
+# BlueprintVersionControl
+ BlueprintVersionControl
+
+## Introduction
+ BlueprintVersionControl is a plug-in for blueprint version control. It goes through all blueprints, checks all the nodes in the blueprints, and finally saves the node information to a .json file to realize the version control of the blueprint.
+
+## Future Optimizations
+- Performance optimization 1: Move the logic to other threads.
+- Performance optimization 2: Only update dirty blueprint resources.
+- Functional optimization: Include more detailed node information.
+- Triggering optimization: Bind to the delegate saving the resources.
+
+## Advantages
+- Solves the problem wherein the content of the blueprint cannot be clearly version-controlled.
