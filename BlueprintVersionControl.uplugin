@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BlueprintVersionControl",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "CHENBAICHENG",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BlueprintVersionControl",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
